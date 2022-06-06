@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import seaborn as sns
+
 from scipy.stats import ttest_1samp
 import cv2
 import zipfile
